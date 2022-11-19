@@ -32,7 +32,7 @@
     "react-rating-system": "^1.0.7",
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-star-rating-input": "^8.0.1",
     "react-star-ratings": "^2.3.0",
     "react-toastify": "^5.3.2",
